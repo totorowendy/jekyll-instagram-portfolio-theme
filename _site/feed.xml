@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clean portfolio theme for Jekyll powered by Bootstrap 4.</title>
+    <description>New Site
+</description>
+    <link>http://example.com/</link>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Dec 2016 19:23:14 -0600</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2016 19:23:14 -0600</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/web-dist/images/smacke_snow_monkey.jpg&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/web-dist/images/smacke_snow_monkey.jpg&quot; style=&quot;height: 800px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://example.com/2016/10/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/2016/10/06/welcome-to-jekyll.html</guid>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 10:39:40 -0500</pubDate>
+        <link>http://example.com/2015/10/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/2015/10/09/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Oct 2015 10:39:40 -0500</pubDate>
+        <link>http://example.com/2015/10/08/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/2015/10/08/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 10:39:40 -0500</pubDate>
+        <link>http://example.com/2015/10/07/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/2015/10/07/welcome-to-jekyll.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Oct 2015 10:39:40 -0500</pubDate>
+        <link>http://example.com/2015/10/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/2015/10/06/welcome-to-jekyll.html</guid>
+        
+        <category>travel</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
