@@ -6,8 +6,9 @@ brand: Wander Wondering
 headline: Inventor, Engineer and Futurist
 description: > # this means to ignore newlines until "baseurl:"
   New Site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/jekyll-instagram-portfolio-theme" # the subpath of your site, e.g. /blog
+assets: "{{ site.baseurl }}/web-dist/images"
+url: "https://totorowendy.github.io" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
 
 # Build settings
