@@ -3,6 +3,7 @@
 git add _posts
 git commit -m "publishing new content"
 git push origin master
+rm -rf ../_site
 cp -r _site ../_site
 git checkout gh-pages
 mv vendor ..
