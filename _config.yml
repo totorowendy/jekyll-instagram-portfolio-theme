@@ -3,7 +3,7 @@
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: your-email@domain.com
 brand: Wander Wondering
-headline: Inventor, Engineer and Futurist
+headline: ""
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "/jekyll-instagram-portfolio-theme" # the subpath of your site, e.g. /blog
