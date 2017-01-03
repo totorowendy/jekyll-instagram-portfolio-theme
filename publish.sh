@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git add _site _posts web-dist/images
+git add _posts
 git commit -m "publishing new content"
 git push origin master
 cp -r _site ../_site
